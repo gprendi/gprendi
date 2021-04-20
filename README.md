@@ -1,4 +1,4 @@
-<h3 align="center">A passionate developer</h3>
+<h1 align="center">A passionate developer</h3>
 <h2 align="left"> From Albania </h2>
 <h2 align="left"> Study in Switzerland </h2>
 
