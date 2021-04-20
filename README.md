@@ -1,5 +1,5 @@
 <h1 align="center">A passionate developer</h3>
-<h2 align="left"> From Albania <img src='albanian_flag.png'</h2>
+<h2 align="left"> From Albania <img src='https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/240/twitter/281/flag-albania_1f1e6-1f1f1.png' width="40" height="40"</h2>
 <h2 align="left"> Study in Switzerland </h2>
 
 - 🔭 I’m currently working on [discord_bot](https://github.com/GPrendi30/discord_bot)
