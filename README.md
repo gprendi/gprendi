@@ -2,9 +2,9 @@
 <h2 align="left"> From Albania</h2>
 <h2 align="left"> Study in Switzerland </h2>
 
-- 🔭 I’m currently working on [discord_bot](https://github.com/GPrendi30/discord_bot)
+- 🔭 I’m currently working on [jtc -A spreadsheet built using Java]
 
-- 🌱 I’m currently learning **Pytorch, pandas, numpy**
+- 🌱 I’m currently learning **java, java standard, design patterns**
 
 - 👨‍💻 All of my projects are available at [https://github.com/GPrendi30/](https://github.com/GPrendi30/)
 
