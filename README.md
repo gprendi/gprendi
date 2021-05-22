@@ -2,7 +2,7 @@
 <h2 align="left"> From Albania</h2>
 <h2 align="left"> Study in Switzerland </h2>
 
-- 🔭 I’m currently working on [jtc -A spreadsheet built using Java]
+- 🔭 I’m currently working on jtc - A spreadsheet built using Java
 
 - 🌱 I’m currently learning **java, java standard, design patterns**
 
