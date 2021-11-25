@@ -1,10 +1,9 @@
 <h1 align="center">A passionate programmer</h3>
-<h2 align="left"> From Albania</h2>
-<h2 align="left"> Study in Switzerland </h2>
+<h2 align="left"> Student at Universita della Svizzera Italiana </h2>
 
-- 🔭 I’m currently working on jtc - A spreadsheet built using Java
+- 🔭 I’m currently working on sand
 
-- 🌱 I’m currently learning **java, java standard, design patterns**
+- 🌱 I’m currently learning **javascript, express, web3.js**
 
 - 👨‍💻 All of my projects are available at [https://github.com/GPrendi30/](https://github.com/GPrendi30/)
 
