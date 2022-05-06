@@ -1,9 +1,10 @@
 <h1 align="center">A passionate programmer</h3>
 <h2 align="left"> Student at Universita della Svizzera Italiana </h2>
+<h2 align="left"> Software Development Engineering Intern @Adobe Schweiz </h2>
 
-- 🔭 I’m currently working on sand
+- 🔭 I’m currently working on codeland
 
-- 🌱 I’m currently learning **javascript, express, web3.js**
+- 🌱 I’m currently learning **microservices, kafka, kubernetes, tracing**
 
 - 👨‍💻 All of my projects are available at [https://github.com/GPrendi30/](https://github.com/GPrendi30/)
 
