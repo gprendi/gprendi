@@ -2,9 +2,11 @@
 <h2 align="left"> Student at Universita della Svizzera Italiana </h2>
 <h2 align="left"> Software Development Engineering Intern @Adobe Schweiz </h2>
 
-- 🔭 I’m currently working on codeland
+- 🔭 I’m currently working on a Group Membership Service
 
-- 🌱 I’m currently learning **microservices, kafka, kubernetes, tracing**
+- 🚀 Gitlab account: https://gitlab.com/GPrendi30
+
+- 🌱 I’m currently learning **distributed systems, consensus algorithms, reactive applications**
 
 - 👨‍💻 All of my projects are available at [https://github.com/GPrendi30/](https://github.com/GPrendi30/)
 
