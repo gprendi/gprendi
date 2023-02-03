@@ -1,6 +1,5 @@
 <h1 align="center">A passionate programmer</h3>
 <h2 align="left"> Student at Universita della Svizzera Italiana </h2>
-<h2 align="left"> Software Development Engineering Intern @Adobe Schweiz </h2>
 
 - 🔭 I’m currently working on a Group Membership Service
 
