@@ -1,11 +1,5 @@
 <h1 align="center">A passionate programmer</h3>
-<h2 align="left"> Student at Universita della Svizzera Italiana </h2>
-
-- 🔭 I’m currently working on a Group Membership Service
-
-- 🚀 Gitlab account: https://gitlab.com/GPrendi30
-
-- 🌱 I’m currently learning **distributed systems, consensus algorithms, reactive applications**
+<h2 align="left"> TO-BE-UPDATED </h2>
 
 - 👨‍💻 All of my projects are available at [https://github.com/GPrendi30/](https://github.com/GPrendi30/)
 
