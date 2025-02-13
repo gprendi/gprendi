@@ -1,7 +1,7 @@
 <h1 align="center">A passionate programmer</h3>
 <h2 align="left"> TO-BE-UPDATED </h2>
 
-- 👨‍💻 All of my projects are available at [https://github.com/GPrendi30/](https://github.com/GPrendi30/)
+- 👨‍💻 All of my projects are available at [https://github.com/gprendi/](https://github.com/gprendi/)
 
 - 📫 How to reach me **geraldprendi1@gmail.com**
 
